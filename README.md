@@ -76,16 +76,14 @@ Mobile Responsive View
 ---
 
 ##  Project Structure
-'''text
+```text
 Netflix-Clone/
 │
 ├── index.html
 ├── style.css
 ├── README.md
-│
-├── assets
-│   
-│__Output
-│ 
-│
-'''
+├── assets/
+└── Output/
+```
+
+
