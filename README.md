@@ -76,6 +76,7 @@ Mobile Responsive View
 ---
 
 ##  Project Structure
+'''text
 Netflix-Clone/
 │
 ├── index.html
@@ -87,3 +88,4 @@ Netflix-Clone/
 │__Output
 │ 
 │
+'''
